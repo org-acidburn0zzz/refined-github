@@ -42,7 +42,7 @@
 		"debounce-fn": "^4.0.0",
 		"delay": "^4.4.0",
 		"delegate-it": "^2.0.0",
-		"dom-chef": "^4.2.0",
+		"dom-chef": "^4.2.2",
 		"dom-loaded": "^2.0.0",
 		"doma": "^3.0.1",
 		"element-ready": "^4.1.1",
